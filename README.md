@@ -54,6 +54,11 @@ you can contact -
 [TOXIC-DEVIL](https://github.com/TOXIC-DEVIL)  | 
 Author: Developer, Base, Bug Fixes, Commits, Modules | 
 
+[![Philip-Smith](https://github.com/Philipsmith6175.png?size=100)](https://github.com/Philipsmith6175) |
+----|
+[Philip Smith](https://github.com/Philipsmith6175)  | 
+Co-developer: Admin, Support, Bug Fixes, Commits, Modules | 
+
 ## THANKS TO
 
 - **[Adiwajshing](https://github.com/Adiwajshing) for [`Baileys`](https://github.com/adiwajshing/Baileys)**
