@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TOXIC-DEVIL/Leon.git"
+    "url": "git+https://github.com/TOMIC-SER/Leon.git"
   },
   "keywords": [
     "whatsapp",
@@ -16,12 +16,12 @@
     "leon",
     "whatsalexa"
   ],
-  "developer": "TOXIC-DEVIL",
+  "developer": "TOMIC-SER",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TOXIC-DEVIL/Leon/issues"
+    "url": "https://github.com/TOMIC-SER/Leon/issues"
   },
-  "homepage": "https://github.com/TOXIC-DEVIL/Leon#readme",
+  "homepage": "https://github.com/TOMIC-SER/Leon#readme",
   "dependencies": {
     "@adiwajshing/baileys": "3.5.3",
     "browser-id3-writer": "^4.4.0",
